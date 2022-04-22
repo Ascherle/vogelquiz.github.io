@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cedc3d3.chunk.css",
+    "main.js": "/static/js/main.05932e21.chunk.js",
+    "main.js.map": "/static/js/main.05932e21.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c7912ea3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c7912ea3.js.map",
+    "static/js/2.ccb57f87.chunk.js": "/static/js/2.ccb57f87.chunk.js",
+    "static/js/2.ccb57f87.chunk.js.map": "/static/js/2.ccb57f87.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2cedc3d3.chunk.css.map": "/static/css/main.2cedc3d3.chunk.css.map",
+    "static/js/2.ccb57f87.chunk.js.LICENSE.txt": "/static/js/2.ccb57f87.chunk.js.LICENSE.txt",
+    "static/media/GuessedBirdItem.module.css": "/static/media/Background_Website.22aee96d.jpg",
+    "static/media/index.css": "/static/media/Background_Website_light.5928264f.jpg",
+    "static/media/App.css": "/static/media/Sweetly_Broken.f51aad72.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7912ea3.js",
+    "static/js/2.ccb57f87.chunk.js",
+    "static/css/main.2cedc3d3.chunk.css",
+    "static/js/main.05932e21.chunk.js"
+  ]
+}
