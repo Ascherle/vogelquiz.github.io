@@ -1,0 +1,8 @@
+.container{
+    background: url("../backgroundImage/Background_Website.jpg") rgb(31, 31, 31);
+    background-blend-mode: multiply;
+    padding: 0px 0px 0px 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}

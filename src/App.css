@@ -1,0 +1,102 @@
+@font-face {
+  font-family:'SBroken';
+   font-style: normal;
+   font-weight: normal;
+   src: url('./fonts/Sweetly_Broken.ttf') format('truetype'),
+        url('./fonts/SweetlyBroken.woff2') format('woff2'),
+        url('./fonts/SweetlyBroken.woff') format('woff');
+}
+
+@font-face {
+  font-family:'SGlamorous';
+   font-style: normal;
+   font-weight: normal;
+   src: url('./fonts/SimplyGlamorous.ttf') format('truetype'),
+        url('./fonts/SimplyGlamorous.woff2') format('woff2'),
+        url('./fonts/SimplyGlamorous.woff') format('woff');
+}
+
+@font-face {
+  font-family:'RobotoThin';
+  font-style: normal;
+  font-weight: normal;
+  src:  url('./fonts/Roboto-Thin.ttf') format('truetype'),
+        url('./fonts/Roboto-Thin.woff2') format('woff2'),
+        url('./fonts/Roboto-Thin.woff') format('woff');
+}
+
+@font-face {
+  font-family:'RobotoLight';
+  font-style: normal;
+  font-weight: normal;
+  src:  url('./fonts/Roboto-Light.ttf') format('truetype'),
+        url('./fonts/Roboto-Light.woff2') format('woff2'),
+        url('./fonts/Roboto-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family:'RobotoMedium';
+  font-style: normal;
+  font-weight: normal;
+  src:  url('./fonts/Roboto-Medium.ttf') format('truetype'),
+        url('./fonts/Roboto-Medium.woff2') format('woff2'),
+        url('./fonts/Roboto-Medium.woff') format('woff');
+}
+
+
+.App {
+  text-align: center;
+  font-family: "SGlamorous";
+}
+
+.Handwritten {
+  font-family:"SGlamorous", sans-serif;
+  font-size: 300%;
+}
+
+.HandwrittenSm{
+  font-family:"SGlamorous", sans-serif;
+  font-size: 200%;
+}
+
+.NormalText{
+  font-family: "RobotoLight";
+  font-weight: normal;
+}
+
+.BiggerText{
+  font-family: "RobotoMedium";
+  font-weight: normal;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
