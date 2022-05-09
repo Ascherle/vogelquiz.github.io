@@ -1,0 +1,22 @@
+[
+    {   
+        "text"  : "Amsel (3)",
+        "path"  : "images/amsel.jpg"
+    },
+    {   
+        "text"  : "Rabe",
+        "path"  : "images/rabe.png"
+    },
+    {   
+        "text"  : "Reiher",
+        "path"  : "images/reiher.jpg"
+    },
+    {   
+        "text"  : "Rotkehlchen",
+        "path"  : "images/robin.jpg"
+    },
+    {   
+        "text"  : "Storch",
+        "path"  : "images/storch.jpg"
+    }
+]

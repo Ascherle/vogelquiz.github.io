@@ -1,0 +1,62 @@
+[
+    {   
+        "text"  : "Amsel",
+        "path"  : "images/birds/Amsel.png"
+    },
+    {   
+        "text"  : "Auerhuhn",
+        "path"  : "images/birds/Auerhuhn.png"
+    },
+    {   
+        "text"  : "Bachstelze",
+        "path"  : "images/birds/Bachstelze.png"
+    },
+    {   
+        "text"  : "Buchfink",
+        "path"  : "images/birds/Buchfink.png"
+    },
+    {   
+        "text"  : "Bundspecht",
+        "path"  : "images/birds/Bundspecht.png"
+    },
+    {   
+        "text"  : "Eichelhäher",
+        "path"  : "images/birds/Eichelhäher.png"
+    },
+    {   
+        "text"  : "Elster",
+        "path"  : "images/birds/Elster.png"
+    },
+    {   
+        "text"  : "Kohlmeise",
+        "path"  : "images/birds/Kohlmeise.png"
+    },
+    {   
+        "text"  : "Kuckuck",
+        "path"  : "images/birds/Kuckuck.png"
+    },
+    {   
+        "text"  : "Rabenkrähe",
+        "path"  : "images/birds/Rabenkrähe.png"
+    },
+    {   
+        "text"  : "Rauchschwalbe",
+        "path"  : "images/birds/Rauchschwalbe.png"
+    },
+    {   
+        "text"  : "Rotkehlchen",
+        "path"  : "images/birds/Rotkehlchen.png"
+    },
+    {   
+        "text"  : "Singdrossel",
+        "path"  : "images/birds/Singdrossel.png"
+    },
+    {   
+        "text"  : "Star",
+        "path"  : "images/birds/Star.png"
+    },
+    {   
+        "text"  : "Storch",
+        "path"  : "images/birds/Storch.png"
+    }
+]
