@@ -1,0 +1,54 @@
+[
+    {   
+        "text"  : "Andenklippenvogel",
+        "path"  : "images/birds/Andenklippenvogel.png"
+    },
+    {   
+        "text"  : "Blauköpfiger Paradiesvogel",
+        "path"  : "images/birds/Blauköpfiger_Paradiesvogel.png"
+    },
+    {   
+        "text"  : "Doppelhornvogel",
+        "path"  : "images/birds/Doppelhornvogel.png"
+    },
+    {   
+        "text"  : "Dunkelroter Ara",
+        "path"  : "images/birds/Dunkelroter_Ara.png"
+    },
+    {   
+        "text"  : "Fischertukan",
+        "path"  : "images/birds/Fischertukan.png"
+    },
+    {   
+        "text"  : "Gelbbrustara",
+        "path"  : "images/birds/Gelbbrustara.png"
+    },
+    {   
+        "text"  : "Gelbwangenkakadu",
+        "path"  : "images/birds/Gelbwangenkakadu.png"
+    },
+    {   
+        "text"  : "Grünbrust-Mangokolibri",
+        "path"  : "images/birds/Grünbrust-Mangokolibri.png"
+    },
+    {   
+        "text"  : "Haubeneule",
+        "path"  : "images/birds/Haubeneule.png"
+    },
+    {   
+        "text"  : "Moskitokolibri",
+        "path"  : "images/birds/Moskitokolibri.png"
+    },
+    {   
+        "text"  : "Rhinozerosvogel",
+        "path"  : "images/birds/Rhinozerosvogel.png"
+    },
+    {   
+        "text"  : "Riesentukan",
+        "path"  : "images/birds/Riesentukan.png"
+    },
+    {   
+        "text"  : "Rotrückenspecht",
+        "path"  : "images/birds/Rotrückenspecht.png"
+    }
+]
